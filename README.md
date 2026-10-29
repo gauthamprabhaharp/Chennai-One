@@ -19,3 +19,6 @@ Extract the ZIP and open `index.html` in your browser. Or run `python3 -m http.s
 This is a front-end demo. Reports are not sent to civic officials; there is no official integration, account system, or cross-device sync. Sample reports are illustrative. Images are stored locally in the browser and may use storage quickly. Do not submit sensitive personal information. For urgent issues, contact appropriate official or emergency channels directly.
 
 Before public launch, add a secure backend/database and image storage, access controls, moderation, rate limits, privacy/retention policies, and verified official workflows. Clearly state whether the service is independent or formally authorized.
+
+
+Dheeraj here I have updated out code and inserted the style pls refer to it asap and report here
